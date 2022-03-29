@@ -9,6 +9,6 @@
 - restart
 
 # Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aruack/banallbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FUCKTHEATTITUDE/banallot.git)
 
 * [Aruack](https://t.me/Aruackofficial)
